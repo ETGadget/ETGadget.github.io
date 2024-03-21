@@ -1,0 +1,10 @@
+プロボノサイトで依頼していただいたスクレイピング案件です。
+１ヶ月程度で完成しました！
+ブランド名を入力　→　素材名を入力　→ 検索結果を一覧で書き出し。
+その間に、検索結果がなかったらスキップとか、いろいろ工夫してます。
+
+This is a scraiping code.
+It took about 1month to make this project.
+The goal of this project is to get results from multiple factor.
+input cosmetic brand name - input the name of elements which is used in the product - get the product's name
+I used "while", "for", "if - else" and so on...
